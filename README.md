@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @EvanWeis
-- 👀 I’m interested in Python, Data Analysis
+- 👀 I’m interested in Python and Data Analysis
 - 🌱 I’m currently learning ways to improve data systems to help people levelerage data more easily
 - 📫 How to reach me: email is best - weis.evan.c@gmail.com
 
