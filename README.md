@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @EvanWeis
+- 👋 Hi, I’m @EvanWeis I'm a data analyst and application developer and like any analyst, Python is my favorite language.
 
-- 👀 I’m interested in understanding what drives quality products, whether its wine, watches, or just about anything     else
-- 🌱 I’m currently learning ways to improve data systems to help people leverage data more easily and effectively
+- 🌱 I’m currently working on ways to improve data systems to help people leverage data more easily and effectively
 
 - 📫 How to reach me: email is best - weis.evan.c@gmail.com
 
